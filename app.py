@@ -9,7 +9,7 @@
 핵심 변경: estimate_calories는 LCEL 체인(prompt | llm | parser)으로 구성한다.
 이 파일을 그대로 HuggingFace Space(Gradio SDK)에 올리면 배포된다.
 
-로컬 실행:
+로컬(local) 실행:
     uv run python 00_for_me/src/week06/app.py
 """
 
